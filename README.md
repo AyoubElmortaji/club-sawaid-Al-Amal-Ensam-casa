@@ -7,5 +7,5 @@ the official web site of SAWAID AL AMAL CLUB ENSAM CASA
 🔴 Link: https://sawaidalamal-ensamc.me/ 🌐✨
 
 
+<img src="https://github.com/AyoubElmortaji/club-sawaid-Al-Amal-Ensam-casa/assets/88349298/3717271f-29fe-46e0-9664-d81c3cb09d77" alt="logo web" width="200" height="auto">
 
-![logo web](https://github.com/AyoubElmortaji/club-sawaid-Al-Amal-Ensam-casa/assets/88349298/3717271f-29fe-46e0-9664-d81c3cb09d77)
