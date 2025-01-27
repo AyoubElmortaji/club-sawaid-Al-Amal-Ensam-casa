@@ -9,9 +9,7 @@ The official web site of SAWAID AL AMAL CLUB ENSAM CASA
 🔴 Link: https://sawaidalamal-ensamc.me/ 🌐✨
 
 
-<b>Tools:</b><br>
 
-<img src="https://th.bing.com/th/id/OIP.kij1QlZKaZtCPtEbWQpiVAAAAA?rs=1&pid=ImgDetMain"  alt="logo web"  height="auto">
 
 
 
